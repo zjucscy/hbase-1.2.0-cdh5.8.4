@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-annotations" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-checkstyle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-external-blockcache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-hadoop-compat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-hadoop2-compat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-it" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-prefix-tree" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-procedure" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-protocol" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-resource-bundle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-rest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-shaded" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-shaded/hbase-shaded-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-shaded/hbase-shaded-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-shell" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-spark" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-testing-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hbase-thrift" charset="UTF-8" />
+  </component>
+</project>

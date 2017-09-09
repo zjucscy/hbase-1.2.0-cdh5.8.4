@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hbase.iml" filepath="$PROJECT_DIR$/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-annotations/hbase-annotations.iml" filepath="$PROJECT_DIR$/hbase-annotations/hbase-annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-assembly/hbase-assembly.iml" filepath="$PROJECT_DIR$/hbase-assembly/hbase-assembly.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-checkstyle/hbase-checkstyle.iml" filepath="$PROJECT_DIR$/hbase-checkstyle/hbase-checkstyle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-client/hbase-client.iml" filepath="$PROJECT_DIR$/hbase-client/hbase-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-common/hbase-common.iml" filepath="$PROJECT_DIR$/hbase-common/hbase-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-examples/hbase-examples.iml" filepath="$PROJECT_DIR$/hbase-examples/hbase-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-external-blockcache/hbase-external-blockcache.iml" filepath="$PROJECT_DIR$/hbase-external-blockcache/hbase-external-blockcache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-hadoop-compat/hbase-hadoop-compat.iml" filepath="$PROJECT_DIR$/hbase-hadoop-compat/hbase-hadoop-compat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-hadoop2-compat/hbase-hadoop2-compat.iml" filepath="$PROJECT_DIR$/hbase-hadoop2-compat/hbase-hadoop2-compat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-it/hbase-it.iml" filepath="$PROJECT_DIR$/hbase-it/hbase-it.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-prefix-tree/hbase-prefix-tree.iml" filepath="$PROJECT_DIR$/hbase-prefix-tree/hbase-prefix-tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-procedure/hbase-procedure.iml" filepath="$PROJECT_DIR$/hbase-procedure/hbase-procedure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-protocol/hbase-protocol.iml" filepath="$PROJECT_DIR$/hbase-protocol/hbase-protocol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-resource-bundle/hbase-resource-bundle.iml" filepath="$PROJECT_DIR$/hbase-resource-bundle/hbase-resource-bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-rest/hbase-rest.iml" filepath="$PROJECT_DIR$/hbase-rest/hbase-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-server/hbase-server.iml" filepath="$PROJECT_DIR$/hbase-server/hbase-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-shaded/hbase-shaded.iml" filepath="$PROJECT_DIR$/hbase-shaded/hbase-shaded.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-shaded/hbase-shaded-client/hbase-shaded-client.iml" filepath="$PROJECT_DIR$/hbase-shaded/hbase-shaded-client/hbase-shaded-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-shaded/hbase-shaded-server/hbase-shaded-server.iml" filepath="$PROJECT_DIR$/hbase-shaded/hbase-shaded-server/hbase-shaded-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-shell/hbase-shell.iml" filepath="$PROJECT_DIR$/hbase-shell/hbase-shell.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-spark/hbase-spark.iml" filepath="$PROJECT_DIR$/hbase-spark/hbase-spark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-testing-util/hbase-testing-util.iml" filepath="$PROJECT_DIR$/hbase-testing-util/hbase-testing-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase-thrift/hbase-thrift.iml" filepath="$PROJECT_DIR$/hbase-thrift/hbase-thrift.iml" />
+    </modules>
+  </component>
+</project>

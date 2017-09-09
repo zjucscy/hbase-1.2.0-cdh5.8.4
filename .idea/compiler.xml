@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hbase-annotations" />
+        <module name="hbase-checkstyle" />
+        <module name="hbase-client" />
+        <module name="hbase-common" />
+        <module name="hbase-examples" />
+        <module name="hbase-external-blockcache" />
+        <module name="hbase-hadoop-compat" />
+        <module name="hbase-hadoop2-compat" />
+        <module name="hbase-it" />
+        <module name="hbase-prefix-tree" />
+        <module name="hbase-procedure" />
+        <module name="hbase-protocol" />
+        <module name="hbase-resource-bundle" />
+        <module name="hbase-rest" />
+        <module name="hbase-server" />
+        <module name="hbase-shaded-client" />
+        <module name="hbase-shaded-server" />
+        <module name="hbase-shell" />
+        <module name="hbase-spark" />
+        <module name="hbase-testing-util" />
+        <module name="hbase-thrift" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hbase" target="1.5" />
+      <module name="hbase-annotations" target="1.7" />
+      <module name="hbase-assembly" target="1.5" />
+      <module name="hbase-checkstyle" target="1.7" />
+      <module name="hbase-client" target="1.7" />
+      <module name="hbase-common" target="1.7" />
+      <module name="hbase-examples" target="1.7" />
+      <module name="hbase-external-blockcache" target="1.7" />
+      <module name="hbase-hadoop-compat" target="1.7" />
+      <module name="hbase-hadoop2-compat" target="1.7" />
+      <module name="hbase-it" target="1.7" />
+      <module name="hbase-prefix-tree" target="1.7" />
+      <module name="hbase-procedure" target="1.7" />
+      <module name="hbase-protocol" target="1.7" />
+      <module name="hbase-resource-bundle" target="1.7" />
+      <module name="hbase-rest" target="1.7" />
+      <module name="hbase-server" target="1.7" />
+      <module name="hbase-shaded" target="1.5" />
+      <module name="hbase-shaded-client" target="1.7" />
+      <module name="hbase-shaded-server" target="1.7" />
+      <module name="hbase-shell" target="1.7" />
+      <module name="hbase-spark" target="1.7" />
+      <module name="hbase-testing-util" target="1.7" />
+      <module name="hbase-thrift" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
